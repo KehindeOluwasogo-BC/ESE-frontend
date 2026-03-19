@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bookings favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f4c5c" />
+      <stop offset="100%" stop-color="#2c7da0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+
+  <rect x="14" y="16" width="36" height="34" rx="6" fill="#ffffff" opacity="0.96" />
+  <rect x="14" y="16" width="36" height="10" rx="6" fill="#e76f51" />
+  <rect x="20" y="12" width="4" height="10" rx="2" fill="#ffffff" />
+  <rect x="40" y="12" width="4" height="10" rx="2" fill="#ffffff" />
+
+  <path d="M23 36l6 6 12-13" fill="none" stroke="#0f766e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
